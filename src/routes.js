@@ -16,7 +16,7 @@ const routes = [
     {
         path: '/login',
         name: 'Login',
-        component: LoginView, // Este es el componente Login que has creado
+        component: LoginView, // Se creado el login y es este componente
     },
     {
         path: '/register',
